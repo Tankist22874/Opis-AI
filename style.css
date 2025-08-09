@@ -13,3 +13,9 @@ h2{
     text-align:center;
     font-size:70px;
 }
+a{
+    text-decoration:none;
+    background-color:blue;
+    color:yellow;
+    border-radius:3px;
+}
